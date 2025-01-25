@@ -1,2 +1,9 @@
-# linear-motion-guide
-Projekt akademicki obejmujący wykonanie rysunku technicznego prowadnicy liniowej, zgodnie z wytycznymi projektowymi oraz normami inżynierskimi.  
+# Technical Drawing of a Linear Motion Guide  
+
+## Opis projektu  
+Projekt akademicki polegający na przygotowaniu rysunku technicznego prowadnicy liniowej z uwzględnieniem wymagań mechanicznych i montażowych.  
+
+## Zakres projektu  
+- Rysunek wykonany w programach Inventor  
+- Uwzględnienie wymiarowania i tolerancji geometrycznych  
+- Dokumentacja techniczna elementu  
